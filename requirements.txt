@@ -1,0 +1,2 @@
+Flask==x.x.x
+praw==x.x.x
