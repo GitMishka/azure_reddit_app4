@@ -1,2 +1,2 @@
-Flask==x.x.x
-praw==x.x.x
+Flask==2.0.1  
+praw==7.4.0  
