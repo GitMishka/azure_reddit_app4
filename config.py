@@ -1,6 +1,5 @@
 # config.py
 
-# Reddit API configuration
 USERNAME = "Searchbot_01"
 PASSWORD = "aaaa1111"
 CLIENT_ID = "Ai32qfXNqvGuMEvHFFMlAw"
